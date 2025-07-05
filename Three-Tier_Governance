@@ -1,0 +1,59 @@
+Filename: AI-Assisted_Three-Tier_Governance.txt
+
+AI-Assisted Three-Tier Governance
+
+A clear, simple system where AI supports humans at every level. Citizens and AI jointly propose ideas. AI vets them, then human bodies decide:
+- Local juries handle neighborhood projects.
+- Regional assemblies vote directly or delegate.
+- National experts refine and finalize big-picture policy.
+
+How It Works
+------------
+1. Proposal Submission & Vetting
+   Anyone—or the community AI—submits an idea. AI checks for duplicates, legal or budget issues, and predicts impact. The top 3–5 proposals emerge in plain language.
+
+2. Local Level (Neighborhood Jury)
+   • Selection: Random draw from high-Impact citizens.
+   • AI Role: Summarizes proposals, flags risks.
+   • Decision: Jury discusses AI summaries, then votes by consent.
+
+3. Regional Level (Liquid Democracy)
+   • Participants: All citizens with Score ≥ 0.
+   • AI Role: Matches you with delegates, clarifies pros/cons, forecasts regional effects.
+   • Decision: You vote “yes/no” or delegate your vote; AI records results.
+
+4. National Level (Expert Council)
+   • Selection: Top 1–3% by Impact Score in key fields.
+   • AI Role: Gathers data, drafts policies, runs “what-if” simulations.
+   • Decision: Council refines AI drafts, votes to adopt, and AI publishes implementation tracking.
+
+FAQ
+---
+Q: Why involve AI at every tier?
+A: AI handles research, vetting, and forecasting so people spend time on judgment and consensus—never on data overload.
+
+Q: How are jury members chosen?
+A: By lottery from citizens above an Impact Score threshold. Each serves one term per cycle.
+
+Q: Can I change my delegate?
+A: Yes—from the regional level, you can reassign your vote at any time.
+
+Q: What if AI is biased or wrong?
+A: All AI models are open-source and audited by rotating citizen teams. Citizens can flag errors and demand recalibration.
+
+Q: How often do decisions happen?
+A: Local juries meet quarterly. Regional ballots open monthly. National council convenes as needed for major policies.
+
+Pros and Cons
+-------------
+Pros
+- Clarity: One process, three clear tiers.
+- Efficiency: AI vetting and forecasting speeds decisions.
+- Inclusivity: Anyone can propose; minimal voters serve.
+- Accountability: Open AI code, public minutes, and appeals.
+
+Cons
+- AI Dependence: System performance hinges on AI quality and fairness.
+- Digital Divide: Requires broad access to tech and literacy.
+- Over-Centralization Risk: National expert council may accumulate too much influence.
+- Transparency Overhead: Auditing AI and maintaining open data demands constant vigilance.
